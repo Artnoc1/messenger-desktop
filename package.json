@@ -55,6 +55,6 @@
     "electron-hunspell": "0.0.7",
     "hazardous": "0.3.0",
     "ws": "3.2.0",
-    "https-proxy-agent": "2.2.1"
+    "https-proxy-agent": "2.2.4"
   }
 }
