@@ -50,7 +50,7 @@
   "dependencies": {
     "electron-json-storage": "3.1.0",
     "electron-window-state": "5.0.3",
-    "electron-settings": "3.1.4",
+    "electron-settings": "3.2.0",
     "electron-updater": "^4.0.7",
     "electron-hunspell": "0.0.7",
     "hazardous": "0.3.0",
